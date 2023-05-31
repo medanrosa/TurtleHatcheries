@@ -430,7 +430,7 @@ table {
 
 /* footer pg1 */
 footer {
-    background-image: url(../Images/Backgroundimage.jpg);
+    background-image: url(../images/Backgroundimage.jpg);
     color: #ffffff;
     display: flex;
     flex-direction: column;
