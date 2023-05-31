@@ -94,11 +94,12 @@ main .para-container p {
     font-size: 30px;
     width: 800px;
     margin-right: 50px;
+    margin-left: 50px;
 }
 
 main .para-container img {
     padding: 50px;
-    align-items: right;
+    align-items: center;
     width: 500px;
     height: auto;
     border-radius: 20px;
@@ -153,7 +154,6 @@ main .para-container-03 p {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     word-spacing: 2px;
     letter-spacing: 1px;
-    ;
 }
 
 th {
@@ -193,6 +193,7 @@ td {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 30px;
     margin-right: 100px;
+    margin-left: 100px;
     background-image: url(../images/smug1.jpg);
     height: 300px;
     width: 400px;
@@ -220,6 +221,7 @@ td {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 30px;
     margin-right: 100px;
+    margin-left: 100px;
     background-image: url("../images/960x640.jpg");
     height: 300px;
     width: 400px;
@@ -247,6 +249,7 @@ td {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 40px;
     margin-right: 100px;
+    margin-left: 100px;
     background-image: url("../images/Ben+Hicks.jfif");
     height: 300px;
     width: 400px;
@@ -266,6 +269,7 @@ td {
     height: 400px;
     border-radius: 20px;
     margin-right: 50px;
+    margin-left: 50px;
 }
 
 .para-container-04 p {
@@ -274,6 +278,7 @@ td {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 30px;
     margin-right: 50px;
+    margin-left: 50px;
 }
 
 .para-container-04 img {
@@ -297,6 +302,7 @@ td {
     font-size: 30px;
     width: 800px;
     margin-right: 50px;
+    margin-left: 50px;
 }
 
 .para-container-pg4 iframe {
@@ -318,6 +324,7 @@ td {
     background-image: url(../images/hikkaduwahathery.jpg);
     border-radius: 300px;
     margin-right: 15px;
+    margin-left: 15px;
 }
 
 .para-container-pg4 h3 {
@@ -333,6 +340,7 @@ td {
     background-image: linear-gradient(270deg, #035A6E, #101004, #035A6E);
     border-radius: 300px;
     margin-right: 15px;
+    margin-left: 15px;
 }
 
 main .purchase-container {
@@ -388,7 +396,9 @@ table {
     font-size: 30px;
     color: rgb(255, 255, 255);
     margin-left: 50px;
-    margin-top: 50px;
+    margin-right: 50px;
+    margin-top: 25px;
+    margin-bottom: 25px;
     letter-spacing: 1px;
     word-spacing: 2px;
     line-height: 40px;
@@ -642,18 +652,11 @@ footer .social a:hover {
         background-color: #000;
     }
 
-
-    /* Body */
-
-
-
     .tbleimg {
         width: 250px;
         height: 150px;
         float: center;
     }
-
-
 
     /* table */
     table {
@@ -663,11 +666,13 @@ footer .social a:hover {
         background-image: linear-gradient(270deg, #0193b0, #619ea9);
         text-align: center;
         font-style: bold;
-        font-size: 10px;
         color: rgb(255, 255, 255);
         width: 450px;
         line-height: 10px;
+    }
 
+    .para-container-table {
+        width: fit-content;
     }
 
     .tbpara {
@@ -684,30 +689,6 @@ footer .social a:hover {
     td {
         border: 10px solid rgb(36, 103, 148);
         padding: 4px;
-    }
-
-    /* buttons */
-    .button {
-        height: 50px;
-        width: 150px;
-        color: rgb(0, 0, 0);
-        text-align: center;
-        text-decoration: none;
-        display: inline-block;
-        font-size: 20px;
-        margin: 4px 2px;
-        transition-duration: 0.5s;
-        cursor: pointer;
-        margin-top: 225px;
-        margin-left: 150px;
-        border: 7px solid #845fff;
-        background-image: linear-gradient(360deg, #00d5ff, #9be0ec);
-        border: 7px solid #6d94b4;
-    }
-
-    .button:hover {
-        background-color: #5ee7a2;
-        color: white;
     }
 
     /* forum */
