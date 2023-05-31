@@ -101,6 +101,7 @@ main .para-container-03 {
     font-size: 30px;
     width: 900px;
     margin-left: 50px;
+    margin-right: 50px;
 }
 
 .para-container-02 p,
@@ -111,6 +112,7 @@ main .para-container-03 {
     font-size: 30px;
     width: 900px;
     margin-right: 50px;
+    margin-left: 50px;
 }
 
 .para-container-03 img {
