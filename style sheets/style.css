@@ -220,7 +220,7 @@ td {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 30px;
     margin-right: 100px;
-    background-image: url("/images/960x640.jpg");
+    background-image: url("../images/960x640.jpg");
     height: 300px;
     width: 400px;
     padding: 100px;
@@ -247,7 +247,7 @@ td {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 40px;
     margin-right: 100px;
-    background-image: url("/images/Ben+Hicks.jfif");
+    background-image: url("../images/Ben+Hicks.jfif");
     height: 300px;
     width: 400px;
     padding: 120px;
