@@ -130,7 +130,7 @@ main .para-container-03 {
 /* footer */
 footer {
     width: 100%;
-    background-image: url(/images/newblubak.jpg);
+    background-image: url(../images/newblubak.jpg);
     display: flex;
     flex-direction: column;
     align-items: center;
