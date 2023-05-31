@@ -99,7 +99,7 @@ main .para-container-03 {
     text-align: justify;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 30px;
-    width: 900px;
+    width: fit-content;
     margin-left: 50px;
     margin-right: 50px;
 }
